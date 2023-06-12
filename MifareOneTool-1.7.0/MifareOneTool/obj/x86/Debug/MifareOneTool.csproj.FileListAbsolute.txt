@@ -1,0 +1,17 @@
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\bin\Debug\MifareOneTool.exe.config
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\bin\Debug\MifareOneTool.exe
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\bin\Debug\MifareOneTool.pdb
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.csproj.AssemblyReference.cache
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.Form1.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.FormDiff.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.FormHardNes.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.FormHTool.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.FormMFF08.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.Properties.Resources.resources
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.csproj.GenerateResource.cache
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.csproj.CoreCompileInputs.cache
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.csproj.CopyComplete
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.exe
+C:\Users\Sakurakuoji\Desktop\MifareOneTool-1.7.0\MifareOneTool\obj\x86\Debug\MifareOneTool.pdb
